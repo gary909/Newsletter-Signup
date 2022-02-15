@@ -1,3 +1,3 @@
 # Newsletter-Signup
 
-![screen image](pic.png)
+![screen image](public/image/pic.png)
